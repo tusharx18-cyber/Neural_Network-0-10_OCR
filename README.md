@@ -38,4 +38,4 @@ $$
 
 $$\hat{m}_t = \frac{m_t}{1 - \beta_1^t}$$
 
-Thanks to @Adityadikonda10 for teaching this.{https://github.com/Adityadikonda10}
+Thanks to @Adityadikonda10 for teaching this https://github.com/Adityadikonda10
